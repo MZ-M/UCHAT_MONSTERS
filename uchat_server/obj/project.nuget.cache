@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "drTpC+OVPjs=",
+  "dgSpecHash": "GeBgC8Mylzk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\uchat 1.10\\uchat 1.10\\uchat_server\\uchat_server.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat_server\\uchat_server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlite\\10.0.0\\microsoft.data.sqlite.10.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.0\\microsoft.data.sqlite.core.10.0.0.nupkg.sha512",

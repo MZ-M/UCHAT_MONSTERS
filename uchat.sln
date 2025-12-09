@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uchat_server", "uchat_server\uchat_server.csproj", "{A581FD31-8FAC-44B9-AA8B-48E8C6E6F83C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uchat_client", "uchat\uchat_client.csproj", "{AEDA9BC0-E07B-4144-8CFB-B54DDA002C4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uchat", "uchat\uchat.csproj", "{AEDA9BC0-E07B-4144-8CFB-B54DDA002C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uchat_gui", "uchat_gui\uchat_gui.csproj", "{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,18 @@ Global
 		{AEDA9BC0-E07B-4144-8CFB-B54DDA002C4F}.Release|x64.Build.0 = Release|Any CPU
 		{AEDA9BC0-E07B-4144-8CFB-B54DDA002C4F}.Release|x86.ActiveCfg = Release|Any CPU
 		{AEDA9BC0-E07B-4144-8CFB-B54DDA002C4F}.Release|x86.Build.0 = Release|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Debug|x64.Build.0 = Debug|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Debug|x86.Build.0 = Debug|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Release|x64.ActiveCfg = Release|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Release|x64.Build.0 = Release|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Release|x86.ActiveCfg = Release|Any CPU
+		{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

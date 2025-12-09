@@ -1,0 +1,14 @@
+D:\projects\uchat\uchat\bin\Release\net10.0\uchat.exe
+D:\projects\uchat\uchat\bin\Release\net10.0\uchat.deps.json
+D:\projects\uchat\uchat\bin\Release\net10.0\uchat.runtimeconfig.json
+D:\projects\uchat\uchat\bin\Release\net10.0\uchat.dll
+D:\projects\uchat\uchat\bin\Release\net10.0\uchat.pdb
+D:\projects\uchat\uchat\obj\Release\net10.0\uchat.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\uchat\uchat\obj\Release\net10.0\uchat.AssemblyInfoInputs.cache
+D:\projects\uchat\uchat\obj\Release\net10.0\uchat.AssemblyInfo.cs
+D:\projects\uchat\uchat\obj\Release\net10.0\uchat.csproj.CoreCompileInputs.cache
+D:\projects\uchat\uchat\obj\Release\net10.0\uchat.dll
+D:\projects\uchat\uchat\obj\Release\net10.0\refint\uchat.dll
+D:\projects\uchat\uchat\obj\Release\net10.0\uchat.pdb
+D:\projects\uchat\uchat\obj\Release\net10.0\uchat.genruntimeconfig.cache
+D:\projects\uchat\uchat\obj\Release\net10.0\ref\uchat.dll

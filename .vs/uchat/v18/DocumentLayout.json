@@ -1,14 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\uchat 1.10\\uchat 1.10\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A581FD31-8FAC-44B9-AA8B-48E8C6E6F83C}|uchat_server\\uchat_server.csproj|c:\\users\\admin\\downloads\\telegram desktop\\uchat 1.10\\uchat 1.10\\uchat_server\\serverprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A581FD31-8FAC-44B9-AA8B-48E8C6E6F83C}|uchat_server\\uchat_server.csproj|solutionrelative:uchat_server\\serverprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}|uchat_gui\\uchat_gui.csproj|c:\\users\\admin\\desktop\\uchat_monsters\\uchat_gui\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}|uchat_gui\\uchat_gui.csproj|solutionrelative:uchat_gui\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEDA9BC0-E07B-4144-8CFB-B54DDA002C4F}|uchat\\uchat_client.csproj|c:\\users\\admin\\downloads\\telegram desktop\\uchat 1.10\\uchat 1.10\\uchat\\clientprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEDA9BC0-E07B-4144-8CFB-B54DDA002C4F}|uchat\\uchat_client.csproj|solutionrelative:uchat\\clientprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}|uchat_gui\\uchat_gui.csproj|c:\\users\\admin\\desktop\\uchat_monsters\\uchat_gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}|uchat_gui\\uchat_gui.csproj|solutionrelative:uchat_gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}|uchat_gui\\uchat_gui.csproj|c:\\users\\admin\\desktop\\uchat_monsters\\uchat_gui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}|uchat_gui\\uchat_gui.csproj|solutionrelative:uchat_gui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}|uchat_gui\\uchat_gui.csproj|c:\\users\\admin\\desktop\\uchat_monsters\\uchat_gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2CF7BAD-1BCC-4969-9662-F87D3A11A674}|uchat_gui\\uchat_gui.csproj|solutionrelative:uchat_gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDA9BC0-E07B-4144-8CFB-B54DDA002C4F}|uchat\\uchat.csproj|c:\\users\\admin\\desktop\\uchat_monsters\\uchat\\clientprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDA9BC0-E07B-4144-8CFB-B54DDA002C4F}|uchat\\uchat.csproj|solutionrelative:uchat\\clientprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,28 +54,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServerProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\uchat 1.10\\uchat 1.10\\uchat_server\\ServerProgram.cs",
-              "RelativeDocumentMoniker": "uchat_server\\ServerProgram.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\uchat 1.10\\uchat 1.10\\uchat_server\\ServerProgram.cs",
-              "RelativeToolTip": "uchat_server\\ServerProgram.cs",
-              "ViewState": "AgIAADABAAAAAAAAAAAwwAsAAAAMAAAAAAAAAA==",
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat_gui\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "uchat_gui\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat_gui\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "uchat_gui\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T18:52:40.615Z",
+              "WhenOpened": "2025-12-01T22:42:04.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAA4UAAAAAAAAAADwvwQVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-01T22:54:46.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat_gui\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "uchat_gui\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat_gui\\MainWindow.xaml.cs",
+              "RelativeToolTip": "uchat_gui\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJQBAAAAAAAAAADgv6cBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T22:33:48.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat_gui\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "uchat_gui\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat_gui\\AssemblyInfo.cs",
+              "RelativeToolTip": "uchat_gui\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T22:33:28.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat_gui\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "uchat_gui\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat_gui\\MainWindow.xaml",
+              "RelativeToolTip": "uchat_gui\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-01T22:33:11.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ClientProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\uchat 1.10\\uchat 1.10\\uchat\\ClientProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat\\ClientProgram.cs",
               "RelativeDocumentMoniker": "uchat\\ClientProgram.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\uchat 1.10\\uchat 1.10\\uchat\\ClientProgram.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat\\ClientProgram.cs",
               "RelativeToolTip": "uchat\\ClientProgram.cs",
               "ViewState": "AgIAANUAAAAAAAAAAAAAADsBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T21:19:21.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T21:19:21.156Z"
             }
           ]
         },

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uchat_client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+824770cd1deb325258f0167f45156309648766a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("uchat_client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uchat_client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
