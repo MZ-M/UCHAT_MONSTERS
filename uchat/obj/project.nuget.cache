@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6Gkx3gMWr8=",
+  "success": true,
+  "projectFilePath": "/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/uchat_client.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrii/.nuget/packages/microsoft.netcore.app.ref/8.0.21/microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "/Users/andrii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.21/microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512",
+    "/Users/andrii/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.21/microsoft.netcore.app.host.osx-arm64.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
