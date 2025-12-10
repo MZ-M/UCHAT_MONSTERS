@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "uchat\\uchat.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "uchat_gui\\uchat_gui.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
