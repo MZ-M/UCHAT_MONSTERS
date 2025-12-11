@@ -1,70 +1,70 @@
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\bin\Debug\net8.0\uchat.exe
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\bin\Debug\net8.0\uchat.deps.json
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\bin\Debug\net8.0\uchat.runtimeconfig.json
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\bin\Debug\net8.0\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\bin\Debug\net8.0\uchat.pdb
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\obj\Debug\net8.0\uchat.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\obj\Debug\net8.0\uchat.AssemblyInfoInputs.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\obj\Debug\net8.0\uchat.AssemblyInfo.cs
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\obj\Debug\net8.0\uchat.csproj.CoreCompileInputs.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\obj\Debug\net8.0\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\obj\Debug\net8.0\refint\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\obj\Debug\net8.0\uchat.pdb
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\obj\Debug\net8.0\uchat.genruntimeconfig.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat\uchat\obj\Debug\net8.0\ref\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\bin\Debug\net8.0\uchat.exe
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\bin\Debug\net8.0\uchat.deps.json
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\bin\Debug\net8.0\uchat.runtimeconfig.json
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\bin\Debug\net8.0\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\bin\Debug\net8.0\uchat.pdb
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\obj\Debug\net8.0\uchat.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\obj\Debug\net8.0\uchat.AssemblyInfoInputs.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\obj\Debug\net8.0\uchat.AssemblyInfo.cs
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\obj\Debug\net8.0\uchat.csproj.CoreCompileInputs.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\obj\Debug\net8.0\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\obj\Debug\net8.0\refint\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\obj\Debug\net8.0\uchat.pdb
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\obj\Debug\net8.0\uchat.genruntimeconfig.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.1\uchat\obj\Debug\net8.0\ref\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\bin\Debug\net8.0\uchat.exe
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\bin\Debug\net8.0\uchat.deps.json
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\bin\Debug\net8.0\uchat.runtimeconfig.json
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\bin\Debug\net8.0\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\bin\Debug\net8.0\uchat.pdb
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\obj\Debug\net8.0\uchat.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\obj\Debug\net8.0\uchat.AssemblyInfoInputs.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\obj\Debug\net8.0\uchat.AssemblyInfo.cs
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\obj\Debug\net8.0\uchat.csproj.CoreCompileInputs.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\obj\Debug\net8.0\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\obj\Debug\net8.0\refint\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\obj\Debug\net8.0\uchat.pdb
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\obj\Debug\net8.0\uchat.genruntimeconfig.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.2\uchat\obj\Debug\net8.0\ref\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\bin\Debug\net8.0\uchat.exe
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\bin\Debug\net8.0\uchat.deps.json
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\bin\Debug\net8.0\uchat.runtimeconfig.json
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\bin\Debug\net8.0\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\bin\Debug\net8.0\uchat.pdb
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\obj\Debug\net8.0\uchat.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\obj\Debug\net8.0\uchat.AssemblyInfoInputs.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\obj\Debug\net8.0\uchat.AssemblyInfo.cs
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\obj\Debug\net8.0\uchat.csproj.CoreCompileInputs.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\obj\Debug\net8.0\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\obj\Debug\net8.0\refint\uchat.dll
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\obj\Debug\net8.0\uchat.pdb
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\obj\Debug\net8.0\uchat.genruntimeconfig.cache
-C:\Users\Mavksim\Desktop\uchat\uchat\uchat 1.3\uchat\obj\Debug\net8.0\ref\uchat.dll
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\bin\Debug\net8.0\uchat.exe
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\bin\Debug\net8.0\uchat.deps.json
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\bin\Debug\net8.0\uchat.runtimeconfig.json
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\bin\Debug\net8.0\uchat.dll
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\bin\Debug\net8.0\uchat.pdb
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\obj\Debug\net8.0\uchat.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\obj\Debug\net8.0\uchat.AssemblyInfoInputs.cache
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\obj\Debug\net8.0\uchat.AssemblyInfo.cs
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\obj\Debug\net8.0\uchat.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\obj\Debug\net8.0\uchat.dll
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\obj\Debug\net8.0\refint\uchat.dll
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\obj\Debug\net8.0\uchat.pdb
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\obj\Debug\net8.0\uchat.genruntimeconfig.cache
-C:\Users\Admin\Downloads\uchat 1.3\uchat 1.3\uchat\obj\Debug\net8.0\ref\uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/bin/Debug/net8.0/uchat.exe
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/bin/Debug/net8.0/uchat.deps.json
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/bin/Debug/net8.0/uchat.runtimeconfig.json
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/bin/Debug/net8.0/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/bin/Debug/net8.0/uchat.pdb
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/obj/Debug/net8.0/uchat.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/obj/Debug/net8.0/uchat.AssemblyInfoInputs.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/obj/Debug/net8.0/uchat.AssemblyInfo.cs
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/obj/Debug/net8.0/uchat.csproj.CoreCompileInputs.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/obj/Debug/net8.0/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/obj/Debug/net8.0/refint/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/obj/Debug/net8.0/uchat.pdb
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/obj/Debug/net8.0/uchat.genruntimeconfig.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat/uchat/obj/Debug/net8.0/ref/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/bin/Debug/net8.0/uchat.exe
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/bin/Debug/net8.0/uchat.deps.json
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/bin/Debug/net8.0/uchat.runtimeconfig.json
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/bin/Debug/net8.0/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/bin/Debug/net8.0/uchat.pdb
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/obj/Debug/net8.0/uchat.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/obj/Debug/net8.0/uchat.AssemblyInfoInputs.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/obj/Debug/net8.0/uchat.AssemblyInfo.cs
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/obj/Debug/net8.0/uchat.csproj.CoreCompileInputs.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/obj/Debug/net8.0/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/obj/Debug/net8.0/refint/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/obj/Debug/net8.0/uchat.pdb
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/obj/Debug/net8.0/uchat.genruntimeconfig.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.1/uchat/obj/Debug/net8.0/ref/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/bin/Debug/net8.0/uchat.exe
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/bin/Debug/net8.0/uchat.deps.json
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/bin/Debug/net8.0/uchat.runtimeconfig.json
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/bin/Debug/net8.0/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/bin/Debug/net8.0/uchat.pdb
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/obj/Debug/net8.0/uchat.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/obj/Debug/net8.0/uchat.AssemblyInfoInputs.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/obj/Debug/net8.0/uchat.AssemblyInfo.cs
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/obj/Debug/net8.0/uchat.csproj.CoreCompileInputs.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/obj/Debug/net8.0/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/obj/Debug/net8.0/refint/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/obj/Debug/net8.0/uchat.pdb
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/obj/Debug/net8.0/uchat.genruntimeconfig.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.2/uchat/obj/Debug/net8.0/ref/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/bin/Debug/net8.0/uchat.exe
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/bin/Debug/net8.0/uchat.deps.json
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/bin/Debug/net8.0/uchat.runtimeconfig.json
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/bin/Debug/net8.0/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/bin/Debug/net8.0/uchat.pdb
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/obj/Debug/net8.0/uchat.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/obj/Debug/net8.0/uchat.AssemblyInfoInputs.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/obj/Debug/net8.0/uchat.AssemblyInfo.cs
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/obj/Debug/net8.0/uchat.csproj.CoreCompileInputs.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/obj/Debug/net8.0/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/obj/Debug/net8.0/refint/uchat.dll
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/obj/Debug/net8.0/uchat.pdb
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/obj/Debug/net8.0/uchat.genruntimeconfig.cache
+C:/Users/Mavksim/Desktop/uchat/uchat/uchat 1.3/uchat/obj/Debug/net8.0/ref/uchat.dll
+/Users/anastasiia/Downloads/uchat 1.3/uchat/obj/Debug/net8.0/uchat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiia/Downloads/uchat 1.3/uchat/obj/Debug/net8.0/uchat.AssemblyInfoInputs.cache
+/Users/anastasiia/Downloads/uchat 1.3/uchat/obj/Debug/net8.0/uchat.AssemblyInfo.cs
+/Users/anastasiia/Downloads/uchat 1.3/uchat/obj/Debug/net8.0/uchat.csproj.CoreCompileInputs.cache
+/Users/anastasiia/Downloads/uchat 1.3/uchat/obj/Debug/net8.0/uchat.dll
+/Users/anastasiia/Downloads/uchat 1.3/uchat/obj/Debug/net8.0/refint/uchat.dll
+/Users/anastasiia/Downloads/uchat 1.3/uchat/obj/Debug/net8.0/uchat.pdb
+/Users/anastasiia/Downloads/uchat 1.3/uchat/bin/Debug/net8.0/uchat
+/Users/anastasiia/Downloads/uchat 1.3/uchat/bin/Debug/net8.0/uchat.deps.json
+/Users/anastasiia/Downloads/uchat 1.3/uchat/bin/Debug/net8.0/uchat.runtimeconfig.json
+/Users/anastasiia/Downloads/uchat 1.3/uchat/bin/Debug/net8.0/uchat.dll
+/Users/anastasiia/Downloads/uchat 1.3/uchat/bin/Debug/net8.0/uchat.pdb
+/Users/anastasiia/Downloads/uchat 1.3/uchat/obj/Debug/net8.0/uchat.genruntimeconfig.cache
+/Users/anastasiia/Downloads/uchat 1.3/uchat/obj/Debug/net8.0/ref/uchat.dll

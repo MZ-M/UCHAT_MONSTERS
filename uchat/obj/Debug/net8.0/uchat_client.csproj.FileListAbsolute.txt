@@ -1,14 +1,113 @@
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\bin\Debug\net8.0\uchat_client.exe
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\bin\Debug\net8.0\uchat_client.deps.json
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\bin\Debug\net8.0\uchat_client.runtimeconfig.json
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\bin\Debug\net8.0\uchat_client.dll
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\bin\Debug\net8.0\uchat_client.pdb
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\obj\Debug\net8.0\uchat_client.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfoInputs.cache
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfo.cs
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\obj\Debug\net8.0\uchat_client.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\obj\Debug\net8.0\uchat_client.dll
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\obj\Debug\net8.0\refint\uchat_client.dll
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\obj\Debug\net8.0\uchat_client.pdb
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\obj\Debug\net8.0\uchat_client.genruntimeconfig.cache
-C:\Users\Admin\Downloads\Telegram Desktop\uchat 1.10\uchat 1.10\uchat\obj\Debug\net8.0\ref\uchat_client.dll
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/bin/Debug/net8.0/uchat_client.exe
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/bin/Debug/net8.0/uchat_client.deps.json
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/bin/Debug/net8.0/uchat_client.runtimeconfig.json
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/bin/Debug/net8.0/uchat_client.dll
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/bin/Debug/net8.0/uchat_client.pdb
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/obj/Debug/net8.0/uchat_client.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/obj/Debug/net8.0/uchat_client.AssemblyInfoInputs.cache
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/obj/Debug/net8.0/uchat_client.AssemblyInfo.cs
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/obj/Debug/net8.0/uchat_client.csproj.CoreCompileInputs.cache
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/obj/Debug/net8.0/uchat_client.dll
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/obj/Debug/net8.0/refint/uchat_client.dll
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/obj/Debug/net8.0/uchat_client.pdb
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/obj/Debug/net8.0/uchat_client.genruntimeconfig.cache
+C:/Users/Yuriy/Desktop/uchat 1.3/uchat/obj/Debug/net8.0/ref/uchat_client.dll
+/Users/andrii/Downloads/uchat 1.4/uchat/bin/Debug/net8.0/uchat_client
+/Users/andrii/Downloads/uchat 1.4/uchat/bin/Debug/net8.0/uchat_client.deps.json
+/Users/andrii/Downloads/uchat 1.4/uchat/bin/Debug/net8.0/uchat_client.runtimeconfig.json
+/Users/andrii/Downloads/uchat 1.4/uchat/bin/Debug/net8.0/uchat_client.dll
+/Users/andrii/Downloads/uchat 1.4/uchat/bin/Debug/net8.0/uchat_client.pdb
+/Users/andrii/Downloads/uchat 1.4/uchat/obj/Debug/net8.0/uchat_client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrii/Downloads/uchat 1.4/uchat/obj/Debug/net8.0/uchat_client.AssemblyInfoInputs.cache
+/Users/andrii/Downloads/uchat 1.4/uchat/obj/Debug/net8.0/uchat_client.AssemblyInfo.cs
+/Users/andrii/Downloads/uchat 1.4/uchat/obj/Debug/net8.0/uchat_client.csproj.CoreCompileInputs.cache
+/Users/andrii/Downloads/uchat 1.4/uchat/obj/Debug/net8.0/uchat_client.dll
+/Users/andrii/Downloads/uchat 1.4/uchat/obj/Debug/net8.0/refint/uchat_client.dll
+/Users/andrii/Downloads/uchat 1.4/uchat/obj/Debug/net8.0/uchat_client.pdb
+/Users/andrii/Downloads/uchat 1.4/uchat/obj/Debug/net8.0/uchat_client.genruntimeconfig.cache
+/Users/andrii/Downloads/uchat 1.4/uchat/obj/Debug/net8.0/ref/uchat_client.dll
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/bin/Debug/net8.0/uchat_client
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/bin/Debug/net8.0/uchat_client.deps.json
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/bin/Debug/net8.0/uchat_client.runtimeconfig.json
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/bin/Debug/net8.0/uchat_client.dll
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/bin/Debug/net8.0/uchat_client.pdb
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/obj/Debug/net8.0/uchat_client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/obj/Debug/net8.0/uchat_client.AssemblyInfoInputs.cache
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/obj/Debug/net8.0/uchat_client.AssemblyInfo.cs
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/obj/Debug/net8.0/uchat_client.csproj.CoreCompileInputs.cache
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/obj/Debug/net8.0/uchat_client.sourcelink.json
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/obj/Debug/net8.0/uchat_client.dll
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/obj/Debug/net8.0/refint/uchat_client.dll
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/obj/Debug/net8.0/uchat_client.pdb
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/obj/Debug/net8.0/uchat_client.genruntimeconfig.cache
+/Users/andrii/Downloads/uchat 1.4/1/uchat12/uchat/obj/Debug/net8.0/ref/uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\bin\Debug\net8.0\uchat_client.exe
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\bin\Debug\net8.0\uchat_client.deps.json
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\bin\Debug\net8.0\uchat_client.runtimeconfig.json
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\bin\Debug\net8.0\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\bin\Debug\net8.0\uchat_client.pdb
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\obj\Debug\net8.0\uchat_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfoInputs.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfo.cs
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\obj\Debug\net8.0\uchat_client.csproj.CoreCompileInputs.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\obj\Debug\net8.0\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\obj\Debug\net8.0\refint\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\obj\Debug\net8.0\uchat_client.pdb
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\obj\Debug\net8.0\uchat_client.genruntimeconfig.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security\uchat\obj\Debug\net8.0\ref\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\bin\Debug\net8.0\uchat_client.exe
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\bin\Debug\net8.0\uchat_client.deps.json
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\bin\Debug\net8.0\uchat_client.runtimeconfig.json
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\bin\Debug\net8.0\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\bin\Debug\net8.0\uchat_client.pdb
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\obj\Debug\net8.0\uchat_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfoInputs.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfo.cs
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\obj\Debug\net8.0\uchat_client.csproj.CoreCompileInputs.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\obj\Debug\net8.0\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\obj\Debug\net8.0\refint\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\obj\Debug\net8.0\uchat_client.pdb
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\obj\Debug\net8.0\uchat_client.genruntimeconfig.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security — 1\uchat\obj\Debug\net8.0\ref\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\bin\Debug\net8.0\uchat_client.exe
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\bin\Debug\net8.0\uchat_client.deps.json
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\bin\Debug\net8.0\uchat_client.runtimeconfig.json
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\bin\Debug\net8.0\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\bin\Debug\net8.0\uchat_client.pdb
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\obj\Debug\net8.0\uchat_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfoInputs.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfo.cs
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\obj\Debug\net8.0\uchat_client.csproj.CoreCompileInputs.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\obj\Debug\net8.0\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\obj\Debug\net8.0\refint\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\obj\Debug\net8.0\uchat_client.pdb
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\obj\Debug\net8.0\uchat_client.genruntimeconfig.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2\uchat\obj\Debug\net8.0\ref\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\bin\Debug\net8.0\uchat_client.exe
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\bin\Debug\net8.0\uchat_client.deps.json
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\bin\Debug\net8.0\uchat_client.runtimeconfig.json
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\bin\Debug\net8.0\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\bin\Debug\net8.0\uchat_client.pdb
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\obj\Debug\net8.0\uchat_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfoInputs.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfo.cs
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\obj\Debug\net8.0\uchat_client.csproj.CoreCompileInputs.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\obj\Debug\net8.0\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\obj\Debug\net8.0\refint\uchat_client.dll
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\obj\Debug\net8.0\uchat_client.pdb
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\obj\Debug\net8.0\uchat_client.genruntimeconfig.cache
+C:\Users\Mavksim\Desktop\uchat\uchat\UCHAT_MONSTERS-databases_and_security - 2 — копия\uchat\obj\Debug\net8.0\ref\uchat_client.dll
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\bin\Debug\net8.0\uchat_client.exe
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\bin\Debug\net8.0\uchat_client.deps.json
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\bin\Debug\net8.0\uchat_client.runtimeconfig.json
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\bin\Debug\net8.0\uchat_client.dll
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\bin\Debug\net8.0\uchat_client.pdb
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Debug\net8.0\uchat_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfoInputs.cache
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Debug\net8.0\uchat_client.AssemblyInfo.cs
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Debug\net8.0\uchat_client.csproj.CoreCompileInputs.cache
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Debug\net8.0\uchat_client.dll
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Debug\net8.0\refint\uchat_client.dll
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Debug\net8.0\uchat_client.pdb
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Debug\net8.0\uchat_client.genruntimeconfig.cache
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Debug\net8.0\ref\uchat_client.dll

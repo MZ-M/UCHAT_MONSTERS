@@ -1,0 +1,14 @@
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\bin\Release\net8.0\uchat_client.exe
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\bin\Release\net8.0\uchat_client.deps.json
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\bin\Release\net8.0\uchat_client.runtimeconfig.json
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\bin\Release\net8.0\uchat_client.dll
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\bin\Release\net8.0\uchat_client.pdb
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Release\net8.0\uchat_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Release\net8.0\uchat_client.AssemblyInfoInputs.cache
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Release\net8.0\uchat_client.AssemblyInfo.cs
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Release\net8.0\uchat_client.csproj.CoreCompileInputs.cache
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Release\net8.0\uchat_client.dll
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Release\net8.0\refint\uchat_client.dll
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Release\net8.0\uchat_client.pdb
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Release\net8.0\uchat_client.genruntimeconfig.cache
+C:\Users\asus2\Desktop\Innovation_Campus\uchat_final\uchat\obj\Release\net8.0\ref\uchat_client.dll

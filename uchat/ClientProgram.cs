@@ -1,50 +1,65 @@
 ﻿using System;
 using System.IO;
 using System.Net.Sockets;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace Client
+namespace uchat_client
 {
     class Program
     {
         public static TcpClient client = null!;
-        public static StreamReader reader = null!;
-        public static StreamWriter writer = null!;
+        public static BinaryReader reader = null!;
+        public static BinaryWriter writer = null!;
+        public static readonly object writerLock = new();
 
-        public static bool isConnected;
+        public static bool isConnected = false;
 
         public static string serverIp = "";
         public static int port = 0;
 
+        public static string chatMode = "all";
         public static string savedLogin = "";
         public static string savedPass = "";
+        public static string DownloadDir = Path.Combine(AppContext.BaseDirectory, "downloads");
 
         static async Task Main(string[] args)
         {
+            Console.InputEncoding = System.Text.Encoding.Unicode;
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+
+            Directory.CreateDirectory(DownloadDir);
+            Console.WriteLine("[INIT] Download folder: " + DownloadDir);
+
             Console.WriteLine("=== uChat Console Client ===");
 
             if (args.Length != 2)
             {
-                Console.WriteLine("Usage: uchat <server_ip> <port>");
+                Console.WriteLine("Usage: uchat_client <server_ip> <port>");
                 return;
             }
 
             serverIp = args[0];
+
             if (!int.TryParse(args[1], out port))
             {
                 Console.WriteLine("Invalid port.");
                 return;
             }
 
-            if (!await Connect_serviese.Connect(logReg: true))
+            if (!await ConnectService.Connect(loginOrRegister: true))
+            {
                 return;
+            }
 
-            SendMessage.StartSendLoop();
+            SendLoop.StartSendLoop();
         }
     }
 
-    class Help{
+    // --------------------------------------------------------------
+    // HELP SYSTEM
+    // --------------------------------------------------------------
+    class Help
+    {
         public static bool IsHelp(string input)
             => input.Equals("/h", StringComparison.OrdinalIgnoreCase)
             || input.Equals("/help", StringComparison.OrdinalIgnoreCase);
@@ -53,29 +68,63 @@ namespace Client
         {
             Console.WriteLine();
             Console.WriteLine("=== uChat HELP ===");
-            Console.WriteLine("Public message:");
-            Console.WriteLine("  <text>");
-            Console.WriteLine();
-            Console.WriteLine("Private:");
-            Console.WriteLine("  /pm <user> <message>");
-            Console.WriteLine();
-            Console.WriteLine("File:");
-            Console.WriteLine("  /file <user|all> <path>");
-            Console.WriteLine();
-            Console.WriteLine("Edit:");
-            Console.WriteLine("  /edit <id> <new text>");
-            Console.WriteLine();
-            Console.WriteLine("Delete:");
-            Console.WriteLine("  /del <id>");
-            Console.WriteLine();
-            Console.WriteLine("Reload history:");
-            Console.WriteLine("  /lh");
-            Console.WriteLine();
-            Console.WriteLine("Clear console:");
-            Console.WriteLine("  /cl");
-            Console.WriteLine();
-            Console.WriteLine("Help:");
-            Console.WriteLine("  /h /help");
+
+            // --------------------------------------------------------------
+            // GENERAL CHAT
+            // --------------------------------------------------------------
+            Console.WriteLine("\nGENERAL CHAT:");
+            Console.WriteLine("  <text>                  send message to public chat");
+            Console.WriteLine("  /all                    switch to public chat mode");
+
+            // --------------------------------------------------------------
+            // PRIVATE MESSAGES
+            // --------------------------------------------------------------
+            Console.WriteLine("\nPRIVATE MESSAGES:");
+            Console.WriteLine("  /pm <user>              switch to PM mode with <user>");
+            Console.WriteLine("  /pm <user> <text>       send PM directly");
+
+            // --------------------------------------------------------------
+            // ROOMS
+            // --------------------------------------------------------------
+            Console.WriteLine("\nROOMS:");
+            Console.WriteLine("  /room <name>            switch to room mode (no join)");
+            Console.WriteLine("  /roomcreate <name>      create room");
+            Console.WriteLine("  /roomdelete <name>      delete room");
+            Console.WriteLine("  /roomjoin <name>        join room");
+            Console.WriteLine("  /roomleave <name>       leave room");
+            Console.WriteLine("  /roommsg <n> <text>     send message to room");
+            Console.WriteLine("  /rooms, /roomlist       list all rooms");
+            Console.WriteLine("  /roominfo <name>        show room info");
+            Console.WriteLine("  /roomwho <name>         list users in room");
+            Console.WriteLine("  /roomkick <r> <user>    kick user from room");
+            Console.WriteLine("  /roomrename <o> <n>     rename a room");
+
+            // --------------------------------------------------------------
+            // FILE TRANSFER
+            // --------------------------------------------------------------
+            Console.WriteLine("\nFILES:");
+            Console.WriteLine("  /file <target> <path>   send file to user or room");
+
+            // --------------------------------------------------------------
+            // EDIT / DELETE
+            // --------------------------------------------------------------
+            Console.WriteLine("\nEDIT / DELETE:");
+            Console.WriteLine("  /edit <id> <text>       edit message");
+            Console.WriteLine("  /del <id>               delete message");
+
+            // --------------------------------------------------------------
+            // HISTORY
+            // --------------------------------------------------------------
+            Console.WriteLine("\nHISTORY:");
+            Console.WriteLine("  /lh                     reload history for current mode");
+
+            // --------------------------------------------------------------
+            // OTHER / UTILITIES
+            // --------------------------------------------------------------
+            Console.WriteLine("\nOTHER:");
+            Console.WriteLine("  /cl                     clear screen");
+            Console.WriteLine("  /h, /help               show this help");
+
             Console.WriteLine();
         }
     }

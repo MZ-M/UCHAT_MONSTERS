@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat\\uchat_client.csproj": {}
+    "C:\\Users\\asus2\\Desktop\\Innovation_Campus\\uchat_final\\uchat\\uchat_client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat\\uchat_client.csproj": {
+    "C:\\Users\\asus2\\Desktop\\Innovation_Campus\\uchat_final\\uchat\\uchat_client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat\\uchat_client.csproj",
+        "projectUniqueName": "C:\\Users\\asus2\\Desktop\\Innovation_Campus\\uchat_final\\uchat\\uchat_client.csproj",
         "projectName": "uchat_client",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat\\uchat_client.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\UCHAT_MONSTERS\\uchat\\obj\\",
+        "projectPath": "C:\\Users\\asus2\\Desktop\\Innovation_Campus\\uchat_final\\uchat\\uchat_client.csproj",
+        "packagesPath": "C:\\Users\\asus2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asus2\\Desktop\\Innovation_Campus\\uchat_final\\uchat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asus2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

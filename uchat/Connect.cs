@@ -1,13 +1,14 @@
-using System.Diagnostics;
-using System.Diagnostics.Contracts;
+using System;
+using System.IO;
 using System.Net.Sockets;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace Client
+namespace uchat_client
 {
-    public class Connect_serviese
+    public class ConnectService
     {
-        public static async Task<bool> Connect(bool logReg)
+        public static async Task<bool> Connect(bool loginOrRegister)
         {
             try
             {
@@ -15,47 +16,58 @@ namespace Client
                 await Program.client.ConnectAsync(Program.serverIp, Program.port);
 
                 var stream = Program.client.GetStream();
-                Program.reader = new StreamReader(stream, new UTF8Encoding(false));
-                Program.writer = new StreamWriter(stream, new UTF8Encoding(false))
-                {
-                    AutoFlush = true
-                };
+                Program.reader = new BinaryReader(stream, Encoding.UTF8);
+                Program.writer = new BinaryWriter(stream, Encoding.UTF8);
 
                 Console.WriteLine("[CONNECTED]");
 
-                if (logReg)
+                // ----------------------------
+                // AUTHENTICATION
+                // ----------------------------
+                string authMode;
+
+                if (loginOrRegister)
                 {
                     Console.Write("[L]ogin or [R]egister: ");
-                    var mode = Console.ReadLine()?.Trim().ToUpper();
-                    string authMode = mode == "R" ? "REGISTER" : "LOGIN";
+                    string? mode = Console.ReadLine()?.Trim().ToUpper();
+                    authMode = (mode == "R") ? "REGISTER" : "LOGIN";
 
                     Console.Write("Username: ");
                     Program.savedLogin = Console.ReadLine()!;
 
                     Console.Write("Password: ");
                     Program.savedPass = Console.ReadLine()!;
-
-                    await Program.writer.WriteLineAsync(
-                        $"AUTH|{authMode}|{Program.savedLogin}|{Program.savedPass}");
                 }
                 else
                 {
-                    await Program.writer.WriteLineAsync(
-                        $"AUTH|LOGIN|{Program.savedLogin}|{Program.savedPass}");
+                    authMode = "LOGIN";
                 }
 
-                var resp = await Program.reader.ReadLineAsync();
+                FrameIO.SendText(
+                    Program.writer,
+                    $"AUTH|{authMode}|{Program.savedLogin}|{Program.savedPass}"
+                );
+
+                Frame? respFrame = FrameIO.ReadFrame(Program.reader);
+                if (respFrame == null || respFrame.Type != FrameType.Text)
+                {
+                    Console.WriteLine("[AUTH FAILED] no response");
+                    return false;
+                }
+
+                string resp = Encoding.UTF8.GetString(respFrame.Payload);
 
                 if (resp != "AUTH|OK")
                 {
-                    Console.WriteLine("[AUTH FAILED]");
+                    Console.WriteLine("[AUTH FAILED] " + resp);
                     return false;
                 }
 
                 Console.WriteLine("[AUTH OK]");
 
                 Program.isConnected = true;
-                Receive.StartReceiveLoop();
+
+                Receiver.Start();
 
                 return true;
             }
@@ -67,34 +79,9 @@ namespace Client
         }
     }
 
-    class Receive
-    {
-        public static void StartReceiveLoop()
-        {
-            _ = Task.Run(async () =>
-            {
-                while (Program.isConnected)
-                {
-                    try
-                    {
-                        var msg = await Program.reader.ReadLineAsync();
-                        if (msg == null)
-                            throw new Exception("Disconnected");
-
-                        Massage.ProcessMessage(msg);
-                    }
-                    catch
-                    {
-                        Program.isConnected = false;
-                        Console.WriteLine("\n[SERVER LOST]");
-                        Reconnect.StartReconnectLoop();
-                        break;
-                    }
-                }
-            });
-        }
-    }
-
+    // ================================================================
+    // RECONNECT LOGIC
+    // ================================================================
     class Reconnect
     {
         public static async void StartReconnectLoop()
@@ -105,7 +92,7 @@ namespace Client
                 {
                     Console.WriteLine("[RECONNECTING...]");
 
-                    if (await Connect_serviese.Connect(logReg: false))
+                    if (await ConnectService.Connect(loginOrRegister: false))
                     {
                         Console.WriteLine("[RECONNECTED]");
                         return;
@@ -113,7 +100,7 @@ namespace Client
                 }
                 catch
                 {
-
+                    // ignore
                 }
 
                 await Task.Delay(3000);
