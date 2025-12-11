@@ -30,10 +30,18 @@ public class Program
         // 3. Главный цикл сервера
         while (true)
         {
-            // ОС пробуждает ожидающий Accept при новом подключении
             var tcpClient = await listener.AcceptTcpClientAsync();
 
             var session = new ClientSession(tcpClient);
+            
+            bool success = await session.InitializeAsync(); 
+            
+            if (!success)
+            {
+                Console.WriteLine("[SSL] Клієнтське підключення не пройшло TLS-аутентифікацію.");
+                session.Close();
+                continue; 
+            }
 
             lock (ServerState.clients)
                 ServerState.clients.Add(session);

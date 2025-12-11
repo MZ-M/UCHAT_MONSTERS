@@ -10,9 +10,9 @@ namespace uchat_client
         // --------------------------------------------------------------
         // GLOBAL STATE 
         // --------------------------------------------------------------
-        public static TcpClient client = null!;
-        public static StreamReader reader = null!;
-        public static StreamWriter writer = null!;
+        public static TcpClient? client = null;
+        public static StreamReader? reader = null;
+        public static StreamWriter? writer = null;
         public static readonly object writerLock = new();
 
         public static bool isConnected = false;
